@@ -1,1 +1,1 @@
-![Hello world](https://raw.githubusercontent.com/henrik1/julekalender2021/main/readme.gif)
+![Hello world](https://github.com/henrik1/julekalender2021/blob/main/readme.gif?raw=true)
