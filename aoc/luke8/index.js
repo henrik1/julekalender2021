@@ -84,7 +84,6 @@ const partTwo = () => {
         seq => seq.map(l => codes[l]),
         seq => seq.sort(),
         seq => seq.join(''),
-        seq => { console.log(seq); return seq; },
         seq => DISPLAY[seq]
       )
     ).join('')
